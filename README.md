@@ -4,11 +4,8 @@
 
 <p>
   This repository contains a lab report completed as part of my
-  <strong>Hardware Security course</strong>. The report was written by
+  <strong>Hardware Security course</strong>. This lab and report were written by self -
   <strong>Assan Jallow</strong> and <strong>Abian Morina</strong>.
-</p>
-
-<p>
   The labs focus on practical hardware security attacks using the
   <strong>ChipWhisperer</strong> platform, including side-channel analysis,
   AES power analysis, and fault injection through clock glitching.
