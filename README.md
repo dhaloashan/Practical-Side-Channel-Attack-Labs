@@ -15,7 +15,12 @@
 </p>
 
 <hr>
+<h2>Github Repository to Lab Files</h2>
 
+<p>
+Link -- > https://github.com/newaetech/chipwhisperer-jupyter/tree/main
+</p>
+<hr>
 <h2>📘 Overview</h2>
 
 <p>
